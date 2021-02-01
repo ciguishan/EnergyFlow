@@ -1,0 +1,2 @@
+This is my test of git, github, vim, bash and linux.
+Peace!
